@@ -1,0 +1,6 @@
+{
+  "name": "Hoop Legends",
+  "description": "Jeu de basketball 3D compétitif en ligne : construis ton Dream Squad avec les stars et légendes du basketball, maîtrise un gameplay réaliste et affronte le monde en 1v1, 2v2 ou 3v3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
